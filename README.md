@@ -1,4 +1,4 @@
-lab03_nickkray
-==============
+CS130E-S14-Labs
+===============
 
-lab03 for Nick Ray
+labs for CS130E-S14
